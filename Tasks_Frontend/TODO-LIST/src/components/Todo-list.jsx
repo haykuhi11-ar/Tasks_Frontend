@@ -26,6 +26,28 @@ export default function ToDoList(){
         ));
     }
 
+    const deleteAll = () => {
+        setTodos([]);
+    }
+
+    const completeAll = () => {
+        setTodos(prev => 
+            prev.map(task => ({
+                ...task,
+                completed: true
+            }))
+        );
+    }
+
+    const revertAll = () => {
+        setTodos(prev => 
+            prev.map(task => ({
+                ...task,
+                completed: false
+            }))
+        );
+    }
+
 
     return (
         <>
@@ -34,6 +56,9 @@ export default function ToDoList(){
                 todos={todos}
                 deleteTask={deleteTask}
                 toggleTask={toggleTask}
+                deleteAll={deleteAll}
+                completeAll={completeAll}
+                revertAll={revertAll}
             />
         </>
     );
