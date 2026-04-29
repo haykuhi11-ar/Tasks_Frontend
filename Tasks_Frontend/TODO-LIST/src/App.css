@@ -1,0 +1,25 @@
+.app-bg {
+    min-height: 100vh;
+    background: #aab5ca;
+    color: rgb(6, 15, 35);
+    padding-top: 30px;
+}
+
+h1 {
+    color: rgb(16, 24, 43);
+}
+
+.custom-input {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1px solid #6a7c96;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.2s;
+}
+
+.custom-input:focus {
+    border-color: #f1f0f7;
+    box-shadow: 0 0 0 3px rgba(120, 117, 170, 0.2);
+}
