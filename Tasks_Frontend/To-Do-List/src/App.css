@@ -1,0 +1,113 @@
+body {
+    margin: auto;
+    background-color: rgb(203, 188, 141);
+    color: rgb(50, 35, 11);
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: start;
+    font-style:normal;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+input {
+    width: 500px;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid #f6d841;
+    outline: auto;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    background-color: #413818;
+    color: #f4e38f;
+}
+
+.add-btn {
+    padding: 15px 26px;
+    border-radius: 13px;
+    cursor: pointer;
+    background-color: #645211;
+    color: rgb(250, 236, 157);
+    transition: 0.2s;
+    border: 1px solid #f6d841;
+    border-radius: 15px;
+    outline: auto;
+}
+
+.add-btn:hover {
+    background-color: #675a2c;
+}
+
+label {
+    font-size: 20px;
+    margin-left: 2px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 16px;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+}
+
+th {
+  background-color: #675a2c;
+  color: #f6eec4;
+  text-align: left;
+  padding: 12px 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: sticky;
+  top: 0;
+}
+
+th, td {
+  padding: 12px 15px;
+}
+
+tr {
+  border-bottom: 2px solid #8a7f4a; /* Разделительная линия между строками */
+}
+
+tr:nth-of-type(even) {
+  background-color: #f6eec4;
+}
+
+.btn-delete, .btn-completed, .btn-filter {
+    padding: 15px 26px;
+    border-radius: 13px;
+    cursor: pointer;
+    background-color: #645211;
+    color: rgb(250, 236, 157);
+    transition: 0.2s;
+    border: 1px solid #f6d841;
+    border-radius: 15px;
+    outline: none;
+    box-shadow: none;
+    margin-left: 50px;
+}
+
+.err {
+    color: rgb(117, 29, 5);
+    font-size: 20px;
+}
+
+.filter-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.filter-label {
+    font-weight: 600;
+    margin-right: 10px;
+}

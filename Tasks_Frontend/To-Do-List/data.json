@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "id": "102",
+      "text": "Go for a walk",
+      "completed": true
+    },
+    {
+      "id": "103",
+      "text": "Read a book",
+      "completed": false
+    },
+    {
+      "id": "104",
+      "text": "Write some code",
+      "completed": false
+    },
+    {
+      "id": "106",
+      "text": "Clean the room",
+      "completed": true
+    },
+    {
+      "text": "Drink a water",
+      "completed": false,
+      "id": "IzAFPuuvrrI"
+    },
+    {
+      "text": "Cook dinner",
+      "completed": false,
+      "id": "2BPenzEbC8o"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
