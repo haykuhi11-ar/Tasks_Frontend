@@ -41,23 +41,23 @@ export  const AddToDo:React.FC<Props> = ({addToDo}) => {
         <form onSubmit={handleSubmit}>
             <label className="label">AddToDo</label>
             <div>
-                <input 
-                type="text" 
-                className="input" 
-                placeholder="Enter your task"
-                value={todo}
-                onChange={(e) => {
-                    setToDo(e.target.value);
-                    if (error) setError(null)
-                }}
+                <input
+                    type="text"
+                    className="input"
+                    placeholder="Enter your task"
+                    value={todo}
+                    onChange={(e) => {
+                        setToDo(e.target.value);
+                        if (error) setError(null)
+                    }}
 
                 />
-                <button 
-                type="submit"
-                className="add-btn"  
+                <button
+                    type="submit"
+                    className="add-btn"
                 >
                     Add
-                    </button>
+                </button>
             </div>
             {error && <p className="err">{error}</p>}
         </form>
