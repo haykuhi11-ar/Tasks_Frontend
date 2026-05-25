@@ -1,0 +1,235 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 12.99,
+      "photo": "https://m.media-amazon.com/images/I/71EWs9393LL._AC_UF1000,1000_QL80_.jpg",
+      "rating": 5,
+      "reviews": 155,
+      "comments": [
+        {
+          "id": 1,
+          "username": "new_user",
+          "comment": "The Great Gatsby is one of the most emotional and beautifully written books I’ve ever read. Fitzgerald perfectly captures the loneliness behind wealth and the illusion of the American Dream. Gatsby as a character feels both inspiring and tragic, and the atmosphere of the 1920s is unforgettable. A timeless classic that stays with you long after finishing it.",
+          "rating": 5
+        },
+        {
+          "id": 1,
+          "username": "booklover123",
+          "comment": "An absolute classic! The writing is beautiful and the story is timeless.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "username": "literaturefan",
+          "comment": "I enjoyed the characters and the setting, but I found the plot a bit slow at times.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 14.99,
+      "photo": "https://m.media-amazon.com/images/I/81gepf1eMqL.jpg",
+      "rating": 4.8,
+      "reviews": 204,
+      "comments": [
+        {
+          "id": 1,
+          "username": "classicreader",
+          "comment": "A powerful and moving story that tackles important social issues. A must-read for everyone.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "username": "bookworm456",
+          "comment": "The characters are so well-developed and the themes are still relevant today. Highly recommend!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 13.49,
+      "photo": "https://m.media-amazon.com/images/I/61NAx5pd6XL._AC_UF1000,1000_QL80_.jpg",
+      "rating": 4.6,
+      "reviews": 200,
+      "comments": [
+        {
+          "id": 1,
+          "username": "dystopianfan",
+          "comment": "A chilling and thought-provoking novel that explores the dangers of totalitarianism. A must-read for fans of dystopian fiction.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "username": "literaturelover",
+          "comment": "Orwell's writing is powerful and his vision of a dystopian future is haunting. Highly recommend this book.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "price": 11.99,
+      "photo": "https://cdn2.penguin.com.au/covers/original/9780099518471.jpg",
+      "rating": 4.3,
+      "reviews": 120,
+      "comments": [
+        {
+          "id": 1,
+          "username": "sci-fi_fan",
+          "comment": "A fascinating and disturbing vision of the future. Huxley's world is both captivating and terrifying.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "username": "booklover789",
+          "comment": "The themes of technology, control, and individuality are explored in a thought-provoking way. Highly recommend this book.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 13.99,
+      "photo": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+      "rating": 4,
+      "reviews": 150,
+      "comments": [
+        {
+          "id": 1,
+          "username": "teenager_reader",
+          "comment": "I can relate to Holden's struggles and his search for identity. A great coming-of-age story.",
+          "rating": 4
+        },
+        {
+          "id": 2,
+          "username": "literature_fanatic",
+          "comment": "Salinger's writing style is unique and captures the voice of a troubled teenager perfectly. Highly recommend this book.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "price": 10.99,
+      "photo": "https://m.media-amazon.com/images/I/61XwMBrnLGL._UF1000,1000_QL80_.jpg",
+      "rating": 4.2,
+      "reviews": 150,
+      "comments": [
+        {
+          "id": 1,
+          "username": "classic_reader",
+          "comment": "A heartbreaking and powerful story about friendship and dreams. Steinbeck's writing is beautiful.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "username": "bookworm123",
+          "comment": "The characters are so well-developed and the themes of loneliness and hope are explored in a poignant way. Highly recommend this book.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "price": 12.49,
+      "photo": "https://upload.wikimedia.org/wikipedia/en/9/9b/LordOfTheFliesBookCover.jpg",
+      "rating": 4.1,
+      "reviews": 180,
+      "comments": [
+        {
+          "id": 1,
+          "username": "dystopian_fan",
+          "comment": "A gripping and disturbing novel that explores the dark side of human nature. Golding's writing is powerful and thought-provoking.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "username": "literature_lover",
+          "comment": "The themes of civilization, savagery, and power are explored in a compelling way. Highly recommend this book.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "price": 11.49,
+      "photo": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780684801223/old-man-and-the-sea-9780684801223_hr.jpg",
+      "rating": 4.4,
+      "reviews": 120,
+      "comments": [
+        {
+          "id": 1,
+          "username": "classic_reader",
+          "comment": "A beautifully written and poignant story about struggle and perseverance. Hemingway's prose is simple yet powerful.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "username": "booklover456",
+          "comment": "The themes of courage, determination, and the human spirit are explored in a profound way. Highly recommend this book.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "price": 12.99,
+      "photo": "https://upload.wikimedia.org/wikipedia/en/d/db/Fahrenheit_451_1st_ed_cover.jpg",
+      "rating": 4.5,
+      "reviews": 200,
+      "comments": [
+        {
+          "id": 1,
+          "username": "dystopian_fan",
+          "comment": "A powerful and thought-provoking novel that explores the dangers of censorship and the importance of knowledge. Bradbury's writing is captivating.",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "username": "literature_lover",
+          "comment": "The themes of freedom, individuality, and the power of books are explored in a compelling way. Highly recommend this book.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "author": "Ken Kesey",
+      "price": 14.49,
+      "photo": "https://m.media-amazon.com/images/I/91pCO2K9omL._AC_UF1000,1000_QL80_.jpg",
+      "rating": 4.3,
+      "reviews": 150,
+      "comments": [
+        {
+          "id": 1,
+          "username": "classic_reader",
+          "comment": "A powerful and thought-provoking novel that explores the themes of freedom, individuality, and the human spirit. Kesey's writing is captivating and the characters are unforgettable.",
+          "rating": 5
+        }
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
