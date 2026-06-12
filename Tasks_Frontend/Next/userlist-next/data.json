@@ -1,0 +1,86 @@
+[
+  {
+    "id": "00v68b",
+    "firstName": "James",
+    "lastName": "Smith",
+    "position": "Backend Developer",
+    "salary": 15000
+  },
+  {
+    "id": "00v34s",
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "position": "Backend Developer",
+    "salary": 13500
+  },
+  {
+    "id": "00v45s",
+    "firstName": "Michael",
+    "lastName": "Williams",
+    "position": "UI/UX Designer",
+    "salary": 10000
+  },
+  {
+    "id": "00v34t",
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "position": "Project Manager",
+    "salary": 15000
+  },
+  {
+    "id": "00v23d",
+    "firstName": "William",
+    "lastName": "Jones",
+    "position": "QA Engineer",
+    "salary": 9500
+  },
+  {
+    "id": "00v78s",
+    "firstName": "Sophia",
+    "lastName": "Garcia",
+    "position": "DevOps Engineer",
+    "salary": 14500
+  },
+  {
+    "id": "00v78a",
+    "firstName": "Benjamin",
+    "lastName": "Miller",
+    "position": "Data Analyst",
+    "salary": 11000
+  },
+  {
+    "id": "00v21f",
+    "firstName": "Isabella",
+    "lastName": "Davis",
+    "position": "Product Owner",
+    "salary": 15500
+  },
+  {
+    "id": "00v56s",
+    "firstName": "Lucas",
+    "lastName": "Martinez",
+    "position": "Full Stack Developer",
+    "salary": 14000
+  },
+  {
+    "id": "00v45w",
+    "firstName": "Mia",
+    "lastName": "Anderson",
+    "position": "Business Analyst",
+    "salary": 10500
+  },
+  {
+    "firstName": "Jorj",
+    "lastName": "Pogosyan",
+    "position": "Frontend developer",
+    "salary": 10000,
+    "id": "00v87a8pmq9zz1ug"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "position": "Graphic Designer",
+    "salary": 7000,
+    "id": "00v87a8pmqa07iho"
+  }
+]
